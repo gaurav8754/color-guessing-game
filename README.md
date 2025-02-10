@@ -14,8 +14,8 @@ Players are given a color and must guess its common name (e.g., "Teal," "Salmon"
 # Adjust the Sliders –
 Players use sliders to adjust RGB or HSL (Hue, Saturation, Lightness) values to match a target color.
 # Features of a Color Guessing Game
-# Difficulty Levels (Easy: Basic colors; Hard: Complex shades)
-# Timed Mode (Players must guess the color within a time limit)
-# Scoring System (Points awarded based on accuracy and speed)
-# Hints & Clues (Players get hints like complementary colors)
-# Multiplayer Mode (Compete with friends or AI)
+Difficulty Levels (Easy: Basic colors; Hard: Complex shades)
+Timed Mode (Players must guess the color within a time limit)
+Scoring System (Points awarded based on accuracy and speed)
+Hints & Clues (Players get hints like complementary colors)
+Multiplayer Mode (Compete with friends or AI)
